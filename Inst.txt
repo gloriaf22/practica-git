@@ -11,3 +11,21 @@ git status (para ver estado de archivos)
 git commit -m "" (agregar msj entre "")
 
 git push origin master (pushea todo al master nose como es)
+
+
+ACTUALIZAR REPO:
+
+(ya inicializamos git)
+
+git add .
+
+git commit -m ""
+
+git push origin master
+
+
+ACTUALIZAR PROYECTO LOCAL
+
+(ya inicializamos git)
+
+git pull origin master (DENTRO DE LA CARPETA)
