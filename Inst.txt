@@ -1,0 +1,13 @@
+Instrucciones (Desde repo nuevo):
+
+Crear repo
+
+git init
+
+git add .
+
+git status (para ver estado de archivos)
+
+git commit -m "" (agregar msj entre "")
+
+git push origin master (pushea todo al master nose como es)
